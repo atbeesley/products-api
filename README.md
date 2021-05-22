@@ -1,5 +1,4 @@
-# vanilla-node-rest-api
-Learning node.js the long way!
+# products-api
 
 To run: 
 1. Clone the repo and run 'npm i' followed by 'npm run dev'. 
