@@ -9,5 +9,8 @@
     "dev": "nodemon server.js"
   },
   "author": "atbeesley",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
